@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "db2688d80c68fb03d8f5fbef",
+  "owner": "enmxfjqtkw",
+  "repo": "page-9f2dd456cc183f855741fc5b",
+  "title": "闪电(⚡️)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9f2dd456cc183f855741fc5b",
+      "a": "闪电(⚡️)",
+      "b": "稳定全球clash加速器",
+      "entity": "闪电(⚡️)",
+      "brand": "闪电(⚡️)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9b74b50ba606041b1e10e9250a8d53484be45c41a6e3577eef1c0a46a901525f",
+      "content": {
+        "primary_entity": "闪电(⚡️)",
+        "keyword1": "闪电(⚡️)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "Clash 客户端覆盖 Windows、macOS、Android、iOS 与路由器，按设备系统选择对应版本，导入订阅配置后即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选择适合的套餐，按客户端文档导入订阅，开始稳定连接。",
+          "AI_CLOSING_TITLE": "选套餐，即刻连接",
+          "AI_DESCRIPTION": "，闪电(⚡️)提供多档订阅套餐，适合不同设备数量与流量需求，支持 Clash 客户端导入订阅，按步骤配置即可使用。",
+          "AI_FEATURES_INTRO": "浏览套餐差异，结合设备数量、流量需求和订阅周期做出选择。",
+          "AI_FEATURES_TITLE": "套餐与服务特点",
+          "AI_FEATURE_TEXT_1": "基础版适合 100GB 内流量与 3 台设备，旗舰版覆盖 300GB 与 5 台设备并含专线优化，团队版提供 1000GB 与 20 台设备。",
+          "AI_FEATURE_TEXT_2": "月付灵活试用，年付更划算，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FEATURE_TEXT_3": "Windows、macOS、Android、iOS 与路由器均可通过 Clash 客户端导入订阅，多设备协同按实际需要选择。",
+          "AI_FEATURE_TITLE_1": "按需选择套餐",
+          "AI_FEATURE_TITLE_2": "月付年付灵活",
+          "AI_FEATURE_TITLE_3": "多平台订阅导入",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，三步开始使用。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "闪电(⚡️)提供稳定全球节点接入，适配 Clash 客户端。基础版 100GB 流量与 3 台设备，旗舰版 300GB 与 5 台设备并含专线优化，团队版支持 20 台设备。",
+          "AI_HERO_SUBTITLE": "闪电加速，稳定连接全球节点",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量与设备",
+          "AI_HIGHLIGHT_2": "Clash 客户端订阅导入便捷",
+          "AI_HIGHLIGHT_3": "月付年付灵活，年付更划算",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与专线加速，团队版满足多设备与大流量需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，从基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "确认设备系统与 Clash 客户端版本，查看套餐设备数量限制与流量额度。",
+          "AI_STEP_TEXT_3": "在 Clash 客户端中导入订阅配置，按文档说明完成节点选择与连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "闪电加速套餐",
+          "AI_FAQ_ANSWER_1": "闪电(⚡️)提供基础版每月100GB、旗舰版每月300GB、团队版每月1000GB流量，按需选择即可。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台同时在线，可按设备数量选择。",
+          "AI_FAQ_ANSWER_3": "在对应客户端中导入订阅链接即可使用，各平台客户端配置方法可参考客户端文档。",
+          "AI_FAQ_ANSWER_4": "旗舰版配备IPLC专线，针对游戏加速优化，可降低延迟，适合对实时性要求较高的场景。",
+          "AI_FAQ_ANSWER_5": "按年付比按月付更优惠，例如基础版按年付仅需150元，适合长期稳定使用的用户。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "闪电(⚡️)各套餐提供多少流量？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_QUESTION_3": "如何在不同设备上配置订阅？",
+          "AI_FAQ_QUESTION_4": "旗舰版的IPLC专线有什么优势？",
+          "AI_FAQ_QUESTION_5": "按年付和按月付有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "skmbaxv.cn",
+    "host": "skmbaxv.cn"
+  },
+  "file_hashes": {
+    "index.html": "0b9864bc553827e0ae398c95a862f7a8c94c68ca86ee6ba3d14acbf1b0e4035f",
+    "sitemap.xml": "334d2b107164d99f6a1843a5a85ab330b5d438e3cac98e976625517f3262f631",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "434ed28929f1600f3b2de7a7bab7dbd34c18c7ab941a05c156c3e9a9f7b81db8",
+    "robots.txt": "eeae323de2fbde2c5bed231eb6749195c861d78ab7cc2de4d39c639b3ec450c0",
+    "ec74bcbce268889a0afe2c219cfafc42.txt": "e367e6ba945072f4d3e5a27dc9a0ccb568348f3451dcf61eae6e322f8a1de53a"
+  },
+  "revision": "d7b855d402ba747d2c189ac8950b892fe8dbe14f6b79ea5025848e328633b070"
+}
